@@ -73,3 +73,7 @@ Print a right-angled triangle pattern of stars
 
 ## Practice Example 2
 Count the occurence of a letter in a list
+
+# Enumerate() function
+Used to access the index and the value of the element of the list.
+Use two variables in for loop.
