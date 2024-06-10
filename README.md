@@ -29,3 +29,22 @@ Things to consider:
     - Program can enter the loop
     - Program can exit the loop
 
+## Range
+Its a pre-defined function that generates a sequence of numbers.
+
+Useful: Loops for iterating a specific number of times over a sequence of time
+
+Range (1starting num, 2stop, 3step)
+
+## Fit for loop
+For each item in a sequence, execute the intended statements
+
+for variable_name in sequence:
+    stats
+
+## Practice example 1
+Finding the sum of the first ten numbers (1, 2, 3 ... etc)
+
+## Practice exmple 2
+Find the largest number in the list
+list - (3, 41, 12, 9, 74, 15)
